@@ -1,0 +1,2 @@
+#!/bin/box
+chown --from=guillaume betty hello
